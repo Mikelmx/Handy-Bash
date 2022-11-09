@@ -1,0 +1,10 @@
+#!/bin/bash
+echo Running Exe's
+
+CD
+
+sudo ./fn.exe
+
+wine fn.exe
+
+echo Complete
